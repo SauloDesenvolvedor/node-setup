@@ -1,3 +1,6 @@
-node_modules
-dist
-touch data/.gitignore
+# Exceto este arquivo
+!.gitignore
+!dist
+!node_modules
+# Ignora tudo neste diretório
+*
