@@ -1,6 +1,2 @@
-# Exceto este arquivo
-!.gitignore
-!dist
-!node_modules
-# Ignora tudo neste diretório
-*
+dist
+node_modules
